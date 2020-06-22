@@ -1,0 +1,10 @@
+Package: com.yourcompany.docktransparent
+Name: docktransparent
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Hansmander Singh
+Author: Hansmander Singh
+Section: Tweaks
+Version: 0.0.1-5+debug
+Installed-Size: 104
